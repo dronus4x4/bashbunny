@@ -15,8 +15,8 @@
 # Green            |  Git Clone Finished
 
 LED R G B
-#ATTACKMODE RNDIS_ETHERNET 
-ATTACKMODE ECM_ETHERNET
+ATTACKMODE RNDIS_ETHERNET 
+#ATTACKMODE ECM_ETHERNET
 
 # Set your desired repo url and branch if you're not looking to update from mainline
 git_repo="https://github.com/hak5/bashbunny-payloads.git"
